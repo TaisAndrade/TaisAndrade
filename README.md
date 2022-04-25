@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center">Hi!!!👋 Me chamo Taís Andrade </h2>
+  <h2 align="center">Hello Everyone!!!👋 Me chamo Taís Andrade </h2>
   <p align="center">Estudante de Sistemas de Informação, apaixonada por programação e tudo que envolve tecnologia. </a>
   </a><br>
   <p align="center">Futura desenvolvedora em ainda aprendizado.</h2>
