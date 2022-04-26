@@ -1,8 +1,8 @@
 <div>
-  <h2 align="center">Hello Everyone!!!👋 Me chamo Taís Andrade </h2>
-  <p align="center">Estudante de Sistemas de Informação, apaixonada por programação e tudo que envolve tecnologia. </a>
+  <h2 align="left">Hello Everyone!!!👋 Me chamo Taís Andrade </h2>
+  <p align="left">Estudante de Sistemas de Informação, apaixonada por programação e tudo que envolve tecnologia. Descobrindo o mundo da orientação a objetos. </a>
   </a><br>
-  <p align="center">Futura desenvolvedora em constante aprendizado 📚.</h2>
+  <p align="left">Desenvolvedora em constante aprendizado 📚.</h2>
 </div>
 
 
