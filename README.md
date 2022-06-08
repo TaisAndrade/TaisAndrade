@@ -1,5 +1,5 @@
 <div>
-  <h2 align="left">Hello Everyone!!!👋 Me chamo Taís 😊</h2>
+  <h2 align="left">Olá!!!👋 Me chamo Taís 😊</h2>
   <p align="left">Estudante de Sistemas de Informação, apaixonada por programação e tudo que envolve tecnologia. Descobrindo o mundo da orientação a objetos. </a>
   </a><br>
   <p align="left">Desenvolvedora em constante aprendizado 📚.</h2>
@@ -11,9 +11,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div><br>
+  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+ <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ </div><br>
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/ta%C3%ADs-andrade-ramos-89a125234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
