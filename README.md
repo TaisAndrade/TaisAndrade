@@ -1,5 +1,5 @@
 <div>
-  <h2 align="left">Oiiiii!!!👋 Me chamo Taís 😊</h2>
+  <h2 align="left">Oiiiii👋 Eu me chamo Taís, muito prazer! 😊</h2>
   <p align="left">Estudante de Sistemas de Informação, apaixonada por programação, jogos 16-bit e tecnologia em geral.  </a>
   </a><br>
   <p align="left">Tentando aprender Cobol e Fortran desde 2023.</h2>
