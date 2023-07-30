@@ -16,8 +16,8 @@
  </div ><br>
 
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/ta%C3%ADs-andrade-ramos-89a125234/" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo="_em branco"></a> 
-  <a href="mailto: taisramos808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style = for-the-badge&logo = gmail&logoColor = branco " alvo="_em branco"></a>
-  <a href="https://www.instagram.com/taisramos_0w0/" alvo="_em branco"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style = for-the-badge&logo = instagram&logoColor = branco " alvo="_em branco"></a>
+  <a href="https://www.linkedin.com/in/ta%C3%ADs-andrade-ramos-89a125234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto: taisramos808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style = for-the-badge&logo = gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/taisramos_0w0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style = for-the-badge&logo = instagram&logoColor=white" target="_blank"></a>
 </div >
 
