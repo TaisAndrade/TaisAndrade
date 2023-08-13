@@ -1,8 +1,8 @@
 <div>
-  <h2 alinhar="esquerda">Oiiiii Eu me chamo Taís, muito mais! </h2 >
+  <h3 alinhar="esquerda">Saudações! Me chamo Taís, muito prazer!</h3>
   <p alinhar="esquerda">Estudante de Sistemas de Informação, apaixonada por programação, jogos de 16 bits e tecnologia em geral. </a>
   </a><br>
-  <p alinhar="esquerda">Tentando render Cobol e Fortran desde 2023.</h2 >
+  <p alinhar="esquerda">Tentando aprender Cobol e Fortran desde 2023.</h2 >
 </div>
 
 
